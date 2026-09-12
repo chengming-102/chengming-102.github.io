@@ -207,6 +207,11 @@ a:active {
 }
 
 /* ─── About Page ─── */
+.about-section .bio-paragraph {
+  text-align: justify;
+  text-align-last: left;
+}
+
 .about-section a {
   color: var(--swatch-4);
   text-decoration: none;
