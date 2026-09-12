@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "XTC",
+    "year": 1986,
+    "file": "xtc-skylarking.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0a/Xtcsl2.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Skylarking",
+    "title": "Skylarking"
+  },
+  {
+    "artist": "Neutral Milk Hotel",
+    "year": 1998,
+    "file": "neutral-milk-hotel-in-the-aeroplane-over-the-sea.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/83/In_the_aeroplane_over_the_sea_album_cover_copy.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/In_the_Aeroplane_Over_the_Sea",
+    "title": "In the Aeroplane Over the Sea"
+  },
+  {
+    "artist": "New Order",
+    "year": 1983,
+    "file": "new-order-power-corruption-and-lies.png",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/New_Order_-_Power%2C_Corruption_%26_Lies.png/1280px-New_Order_-_Power%2C_Corruption_%26_Lies.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Power,_Corruption_%26_Lies",
+    "title": "Power, Corruption & Lies"
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "year": 1995,
+    "file": "smashing-pumpkins-mellon-collie-and-the-infinite-sadness.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/The_Smashing_Pumpkins_-_Mellon_Collie_And_The_infinite_Sadness.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Mellon_Collie_and_the_Infinite_Sadness",
+    "title": "Mellon Collie and the Infinite Sadness"
+  },
+  {
+    "artist": "Sonic Youth",
+    "year": 1988,
+    "file": "sonic-youth-daydream-nation.png",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ad/Daydreamnation.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Daydream_Nation",
+    "title": "Daydream Nation"
+  },
+  {
+    "artist": "The Verve",
+    "year": 1992,
+    "file": "the-verve-ep.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/Verveepalbumcover.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/The_Verve_E.P.",
+    "title": "The Verve E.P."
+  }
+]
